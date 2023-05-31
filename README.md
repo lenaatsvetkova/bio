@@ -6,12 +6,9 @@
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
 ### Связаться со мной:
-[<img align="left" alt="lenaatsvetkova | Telegram" width="22px" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" />][telegram]
+[Telegram] (https://t.me/lenaatsvetkova/)
 
 <br />
 
 <br />
 <br />
-
----
-[telegram]: https://t.me/lenaatsvetkova/
