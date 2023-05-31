@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
 ### Связаться со мной:
-[Telegram] (https://t.me/lenaatsvetkova/)
+[Telegram](https://t.me/lenaatsvetkova/)
 
 <br />
 
